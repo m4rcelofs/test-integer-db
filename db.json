@@ -3,6 +3,19 @@
     { "id": -150, "extenso": "menos cento e cinquenta" },
     { "id": 0, "extenso": "zero"},
     { "id": 1, "extenso": "um" },
-    { "id": 10, "extenso": "dez" }
+    { "id": 2, "extenso": "dois" },
+    { "id": 3, "extenso": "três" },
+    { "id": 4, "extenso": "quatro" },
+    { "id": 5, "extenso": "cinco" },
+    { "id": 6, "extenso": "seis" },
+    { "id": 7, "extenso": "sete" },
+    { "id": 8, "extenso": "oito" },
+    { "id": 9, "extenso": "nove" },
+    { "id": 10, "extenso": "dez" },
+    { "id": 11, "extenso": "onze" },
+    { "id": 12, "extenso": "doze" },
+    { "id": 13, "extenso": "treze" },
+    { "id": 14, "extenso": "catorze" },
+    { "id": 15, "extenso": "quinze" }
   ]
 }
