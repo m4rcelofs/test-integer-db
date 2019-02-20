@@ -1,0 +1,7 @@
+{
+  "numero": [
+    { "id": 1, "extenso": "um" },
+    { "id": 10, "title": "dez" },
+    { "id": -150, "title": "menos cento e cinquenta" }
+  ],
+}
