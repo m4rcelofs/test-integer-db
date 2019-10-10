@@ -22,5 +22,8 @@
      
     { "id": 664, "extenso": "seiscentos e sessenta e quatro" },
     { "id": -773, "extenso": "menos setecentos e setenta e três" }
+    
+    { "id": 10773, "extenso": "dez mil e setecentos e setenta e três" }
+    { "id": 529773, "extenso": "quinhentos e vinte e nove mil e setecentos e setenta e três" }
   ]
 }
